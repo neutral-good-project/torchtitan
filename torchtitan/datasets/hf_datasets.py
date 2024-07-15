@@ -30,6 +30,7 @@ from datasets.distributed import split_dataset_by_node
 _supported_datasets = {
     "c4_mini": "torchtitan/datasets/c4_mini",
     "c4": "allenai/c4",
+    "test": "torchtitan/datasets/test",
 }
 
 
